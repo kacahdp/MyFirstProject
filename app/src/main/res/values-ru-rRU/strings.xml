@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="hello">ПРИВЕТ!!!</string>
+    <string name="next_activity">Следующая_Активность</string>
+    <string name="click_here">Нажми сюда</string>
+</resources>
